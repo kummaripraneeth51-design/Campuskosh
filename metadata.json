@@ -1,0 +1,6 @@
+{
+  "name": "CampusKosh",
+  "description": "Student-to-student campus sharing platform for RGUKT. Share, borrow, and give away useful campus items 100% free.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
